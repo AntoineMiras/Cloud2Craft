@@ -1,4 +1,4 @@
-path-->C:/Users/antoi/Desktop/Cloud2Craft/ScriptsFormated/Server/spigot-1.14.3.jar
+path-->C:/
 port-->25565
 start-->True
 tp-->True
