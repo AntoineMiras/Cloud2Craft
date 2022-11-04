@@ -1,4 +1,0 @@
-path-->C:/Users/antoi/Desktop/Cloud2Craft/Server/spigot-1.14.3.jar
-port-->25565
-start-->True
-tp-->True
