@@ -254,6 +254,7 @@ class LoadPoints(QObject):
         self.size = (MAINWINDOW.csizeh.value(), MAINWINDOW.csizev.value())
         self.pts_it = MAINWINDOW.ppi.value()
         self.vsize = MAINWINDOW.Slider.value() / 1000
+        self.start = True
         if MAINWINDOW.positionBox.isChecked():
             try:
                 xoff, zoff, yoff = self._mc.player.getPos()
@@ -262,6 +263,7 @@ class LoadPoints(QObject):
                                      "Player position couldn't be recovered, please retry.")
                 print(e)
                 self.finished.emit()
+                self.start = False
                 return
 
         self.xoff = xoff
@@ -293,6 +295,11 @@ class LoadPoints(QObject):
         inspired by the laspy documentation:
             https://laspy.readthedocs.io/en/latest/examples.html
         """
+        if not self.start:
+            MAINWINDOW.acc_launch()
+            self.finished.emit()
+            return
+
         count = 0
         pcd = geometry.PointCloud()
 
