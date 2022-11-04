@@ -220,7 +220,7 @@ class InitServ(QObject):
                                     cwd=dirr.replace(dirr.split("/")[-1], ""),
                                     creationflags=subprocess.CREATE_NEW_CONSOLE,
                                     )  # on lance la commande pour créer un serveur
-            print("oui")
+          
             while not MAINWINDOW._mc:  # tant que le serveur n'est pas lancé
                 sleep(3)  # petite pause
                 if pipe.poll() is None:
