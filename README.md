@@ -1,4 +1,4 @@
-# Cloud2Craft
+# 🧊 Cloud2Craft
 
 Cloud2Craft is an open source project that will permit to load points cloud into minecraft.
 
