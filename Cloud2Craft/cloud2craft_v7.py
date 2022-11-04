@@ -674,6 +674,7 @@ class Main(QMainWindow):
                     self.serv_stat.setText(" 🟠 Waiting for the server")
                     print("starting server...")
                     self.create_serv()
+
                 else:
                     self.serv_stat.setStyleSheet("""background: black;
                                                   font-weight: bold;
