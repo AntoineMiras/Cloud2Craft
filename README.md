@@ -5,7 +5,7 @@
 
 ### Capture the present, Block the future!
 
-Cloud2Craft is an open source project that will permit to load points cloud into minecraft.
+Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BELLOCQ, that allow anyone to load point clouds into minecraft.
 
 
 
