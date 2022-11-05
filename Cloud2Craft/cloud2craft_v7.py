@@ -329,10 +329,6 @@ class LoadPoints(QObject):
 
             self.maxi.emit(int(file.header.point_count))
 
-            if file.header.z_max > 256:
-                self._mc.postToChat(
-                    "Point cloud max height exceed max height of the world. Model will be cropped")
-
             try:
                 time_start = time()
                 for points in file.chunk_iterator(self.pts_it):
