@@ -449,7 +449,7 @@ class Main(QMainWindow):
 
         """
         super(Main, self).__init__()
-        loadUi(PARENT_DIRECTORY + "\\Ressources\\mainwindow3.ui", self)
+        loadUi(PARENT_DIRECTORY + "\\Ressources\\mainwindow.ui", self)
         self.setWindowTitle("Cloud2Craft")
         self.setWindowIcon(QIcon("./Ressources/icon.ico"))
         self.init_ui()
