@@ -13,7 +13,7 @@
 
 # Overview
 
-### Capture the present, Block the future!
+### What is Cloud2Craft?
 
 Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BELLOCQ, that allow anyone to load point clouds into minecraft.
 
