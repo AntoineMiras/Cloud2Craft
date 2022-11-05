@@ -10,8 +10,6 @@
  
 </div>
 
-#
-
 ## Overview
 
 ### What is Cloud2Craft?
