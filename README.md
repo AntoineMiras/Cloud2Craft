@@ -18,7 +18,7 @@ Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BEL
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/back_library.png)
+![App Screenshot](https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/background.png)
 
 
 ## Contributing
