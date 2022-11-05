@@ -1,6 +1,5 @@
 <h1 align="center">
   <br>
-
   <picture>
     <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/icon.ico" alt="Cloud2Craft" width="300"></a>
   </picture>
@@ -8,6 +7,7 @@
   Cloud2Craft
   <br>
 </h1>
+
 <h4 align="center">A point clouds <a href="https://www.minecraft.net/" target="_blank">Minecraft</a> uploader</h4>
 
 <div align="center">
