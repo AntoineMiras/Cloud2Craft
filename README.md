@@ -18,13 +18,13 @@ Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BEL
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/background.png)
+<picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/background.png"></picture>
 <p align="center">
   Laman Mahkota Bukit Serene Malaysia, credits to 
   <a href="https://geoslam.com/sample-data/"> GeoSlam </a>
 </p>
 
-![App Screenshot](https://github.com/AntoineMiras/Cloud2Craft/blob/main/Screenshots/Mural.png)
+<picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Screenshots/Mural.png"></picture>
 <p align="center">
   Mural, 10 mm/block, credits to 
   <a href="https://betterprogramming.pub/from-point-clouds-to-minecraft-a-python-tutorial-1b14a87f3f0b"> Baptiste Bellocq </a>
