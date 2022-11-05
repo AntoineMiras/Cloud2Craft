@@ -8,7 +8,8 @@
 
   <a href="">![MIT License](https://img.shields.io/badge/License-MIT-green.svg)</a>
   <a href="">![Python](https://img.shields.io/badge/Language-%F0%9F%90%8D%20Python-blue)</a>
-  
+  <a href="">![Version](https://img.shields.io/badge/Version-1.0-orange)</a>
+ 
 </div>
 
 # Overview
