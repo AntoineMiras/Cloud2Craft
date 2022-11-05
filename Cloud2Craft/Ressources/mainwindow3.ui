@@ -27,7 +27,7 @@
   </property>
   <property name="styleSheet">
    <string notr="true">QMainWindow{
-background-image: url(&quot;./Ressources/back_library.png&quot;);
+background-image: url(&quot;./Ressources/background.png&quot;);
 background-repeat: no-repeat; 
 background-position: center;
 }
