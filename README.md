@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Banner.jpg" ></a>
+  <picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Banner.jpg" ></picture>
 </p>
 
 <div align="center">
