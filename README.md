@@ -1,12 +1,11 @@
-<a href="https://github.com/AntoineMiras/Cloud2Craft/">
-    <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Cloud2Craft_logo.png" alt="Cloud2Craft logo" title="Cloud2Craft" align="right" height="50" />
-</a>
-
-# Aimeos TYPO3 extension
-
-<p align="center">
-  <picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Banner.jpg" ></picture>
-</p>
+<h1 align="center">
+  <br>
+  <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/icon.ico" alt="Cloud2Craft" width="200"></a>
+  <br>
+  Cloud2Craft
+  <br>
+</h1>
+<h4 align="center">A point clouds uploader into <a href="https://www.minecraft.net/" target="_blank">Minecraft</a>.</h4>
 
 <div align="center">
   
@@ -14,9 +13,18 @@
   <a href="https://www.python.org/">![Python](https://img.shields.io/badge/Language-%F0%9F%90%8D%20Python-blue)</a>
   <a href="#">![Version](https://img.shields.io/badge/Version-1.0-orange)</a>
 </div>
+<p align="center">
+    <a href="#overview">Overview</a> •
+    <a href="#download">Download</a> •
+    <a href="#authors">Authors</a> •
+    <a href="#license">License</a> •
+</p>
 
-<br>
-
+<picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/banner.png"></picture>
+<p align="center">
+  Laman Mahkota Bukit Serene Malaysia, credits to 
+  <a href="https://geoslam.com/sample-data/"> GeoSlam </a>
+</p>
 ## Overview
 
 ### What is Cloud2Craft?
@@ -41,6 +49,8 @@ The goal of cloud2Craft is to allow anyone to import point clouds into the game,
 </p>
 
 <br>
+
+## Download 
 
 ## Contributing
 
