@@ -10,6 +10,8 @@
  
 </div>
 
+<br>
+
 ## Overview
 
 ### What is Cloud2Craft?
@@ -24,11 +26,15 @@ Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BEL
   <a href="https://geoslam.com/sample-data/"> GeoSlam </a>
 </p>
 
+<br>
+
 <picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Screenshots/Mural.png"></picture>
 <p align="center">
   Mural, 10 mm/block, credits to 
   <a href="https://betterprogramming.pub/from-point-clouds-to-minecraft-a-python-tutorial-1b14a87f3f0b"> Baptiste Bellocq </a>
 </p>
+
+<br>
 
 ## Contributing
 
