@@ -1,3 +1,9 @@
+<a href="https://github.com/AntoineMiras/Cloud2Craft/">
+    <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Cloud2Craft_logo.png" alt="Cloud2Craft logo" title="Cloud2Craft" align="right" height="50" />
+</a>
+
+# Aimeos TYPO3 extension
+
 <p align="center">
   <picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Banner.jpg" ></picture>
 </p>
