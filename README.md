@@ -19,7 +19,10 @@ Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BEL
 ## Screenshots
 
 ![App Screenshot](https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/background.png)
-
+<p align="center">
+  Laman Mahkota Bukit Serene Malaysia, credits to 
+  <a href="https://geoslam.com/sample-data/"> GeoSlam </a>
+</p>
 
 ## Contributing
 
