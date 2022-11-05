@@ -17,10 +17,6 @@
 
 Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BELLOCQ, that allow anyone to load point clouds into minecraft.
 
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![Python](https://img.shields.io/badge/Language-%F0%9F%90%8D%20Python-blue)](https://www.python.org/)
-
 ## Screenshots
 
 ![App Screenshot](https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/back_library.png)
