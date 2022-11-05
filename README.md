@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Cloud2Craft.png">
+  <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Banner.jpg">
 </p>
-
-<h1 align="center">Capture the present, Block the future!</h1>
 
 <div align="center">
   
