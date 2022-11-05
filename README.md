@@ -3,7 +3,6 @@
 </p>
 
 <div align="center">
-  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
   <a href="https://choosealicense.com/licenses/mit/">![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)</a>
   <a href="https://choosealicense.com/licenses/mit/">![MIT License](https://img.shields.io/badge/License-MIT-green.svg)</a>
   <a href="https://www.python.org/">![Python](https://img.shields.io/badge/Language-%F0%9F%90%8D%20Python-blue)</a>
