@@ -1,7 +1,17 @@
+<p align="center">
+  <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Cloud2Craft.png">
+</p>
 
-![Logo](https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Cloud2Craft.png)
+<h1 align="center">Capture the present, Block the future!</h1>
 
-# 🧊 Cloud2Craft
+<div align="center">
+
+  <a href="">![MIT License](https://img.shields.io/badge/License-MIT-green.svg)</a>
+  <a href="">![Python](https://img.shields.io/badge/Language-%F0%9F%90%8D%20Python-blue)</a>
+  
+</div>
+
+# Overview
 
 ### Capture the present, Block the future!
 
