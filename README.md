@@ -1,3 +1,10 @@
+<div align="center">
+  <picture align="center">
+    <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/icon.ico" alt="Cloud2Craft" width="300"></a>
+  </picture>
+  <h1>Cloud2Craft</h1>
+</div>
+
 <h1 align="center">
   <br>
   <picture>
