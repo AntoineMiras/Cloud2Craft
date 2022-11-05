@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/icon.ico" alt="Cloud2Craft" width="200"></a>
+  <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/icon.ico" alt="Cloud2Craft" width="300"></a>
   <br>
   Cloud2Craft
   <br>
 </h1>
-<h4 align="center">A point clouds uploader into <a href="https://www.minecraft.net/" target="_blank">Minecraft</a>.</h4>
+<h4 align="center">A point clouds <a href="https://www.minecraft.net/" target="_blank">Minecraft</a> uploader</h4>
 
 <div align="center">
   
@@ -15,22 +15,22 @@
 </div>
 <p align="center">
     <a href="#overview">Overview</a> •
+    <a href="#settings">Settings</a> •
     <a href="#download">Download</a> •
     <a href="#authors">Authors</a> •
     <a href="#license">License</a> •
 </p>
 
-<picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/banner.png"></picture>
-<p align="center">
-  Laman Mahkota Bukit Serene Malaysia, credits to 
-  <a href="https://geoslam.com/sample-data/"> GeoSlam </a>
-</p>
+<picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Banner.jpg"></picture>
+
 ## Overview
 
 ### What is Cloud2Craft?
 
 Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BELLOCQ, that allow anyone to load massives point clouds into minecraft. The point clouds are commonly obtained using LiDAR technology or photogrammetry.
 The goal of cloud2Craft is to allow anyone to import point clouds into the game, without the need for programming knowledge. Cloud2Craft is for everyone, but especially for those interested in point clouds, surveyors and virtual tour creators! 
+
+## Settings
 
 ## Screenshots
 
