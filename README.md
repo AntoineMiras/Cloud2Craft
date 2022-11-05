@@ -1,6 +1,9 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/icon.ico" alt="Cloud2Craft" width="300"></a>
+
+  <picture>
+    <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/icon.ico" alt="Cloud2Craft" width="300"></a>
+  </picture>
   <br>
   Cloud2Craft
   <br>
