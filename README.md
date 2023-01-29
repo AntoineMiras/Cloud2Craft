@@ -61,7 +61,7 @@ You should have a file like this one :
 <h1 align="center">
   <br>
   <picture>
-    <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/server_file_content.jpg" alt="Server file content" width="300"></a>
+    <img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/server_file_content.png" alt="Server file content" width="300"></a>
   </picture>
   <br>
 </h1>
