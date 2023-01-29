@@ -57,7 +57,6 @@ from PyQt5.QtWidgets import (
 
 from PyQt5.QtGui import QIcon
 
-
 from open3d import geometry, utility
 
 from mcpi.minecraft import Minecraft
@@ -220,7 +219,7 @@ class InitServ(QObject):
                                     cwd=dirr.replace(dirr.split("/")[-1], ""),
                                     creationflags=subprocess.CREATE_NEW_CONSOLE,
                                     )  # on lance la commande pour créer un serveur
-          
+
             while not MAINWINDOW._mc:  # tant que le serveur n'est pas lancé
                 sleep(3)  # petite pause
                 if pipe.poll() is None:
@@ -356,6 +355,7 @@ class LoadPoints(QObject):
 
                             # Tricks to calculate the color base
                             # IE if the color needs to be divided by 255**2 or 255
+
                             if color_base == 0:
                                 mean_blue = sum(sub_points.blue) / \
                                     len(sub_points.blue)
@@ -403,11 +403,17 @@ class LoadPoints(QObject):
                     count += len(points)
                     self.progress.emit(count)
 
+            except AttributeError as _e:
+                print(_e)
+                QMessageBox.critical(self, 'Error',
+                                     "Error when reading the point cloud, please check console for further informations.")
+
+
             except Exception as _e:
                 print(_e)
                 exc_type, exc_obj, exc_tb = sys.exc_info()
                 fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
-                print(exc_type, fname, exc_tb.tb_lineno, exc_obj)
+                print(fname, "line", exc_tb.tb_lineno, exc_type, exc_obj)
 
 
         MAINWINDOW.acc_launch()
@@ -427,8 +433,6 @@ class LoadPoints(QObject):
         self._mc.postToChat(" ")
         self._mc.postToChat("#==================================================#")
 
-        print("Temps passé:", time() - time_start)
-
         if MAINWINDOW.tp.isChecked():
             self._mc.player.setPos(self.xoff, 255, self.yoff)
         self.finished.emit()
@@ -436,7 +440,7 @@ class LoadPoints(QObject):
 
 class Main(QMainWindow):
     """
-    Classe principale du programme
+    Main class
     """
 
     def __init__(self):
