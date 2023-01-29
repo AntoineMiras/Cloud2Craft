@@ -58,9 +58,9 @@ eula=True
 
 You should have a file like this one :
 
- <picture>
-    <img src="https://github.com/AntoineMiras/Cloud2Craft/tree/main/Screenshots/server_file_content.png" alt="Server file content" width="300"></a>
- </picture>
+
+<picture><img src="https://github.com/AntoineMiras/Cloud2Craft/tree/main/Screenshots/server_file_content.png"></picture>
+<p align="center">
 
 6. launch server :
 ```
