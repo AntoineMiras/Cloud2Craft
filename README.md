@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  <a href="https://choosealicense.com/licenses/mit/">![MIT License](https://img.shields.io/badge/License-MIT-green.svg)</a>
+  <a href="https://choosealicense.com/licenses/gpl-3.0/">![GPL License](https://img.shields.io/badge/License-GNU%20GPL-blue)</a>
   <a href="https://www.python.org/">![Python](https://img.shields.io/badge/Language-%F0%9F%90%8D%20Python-blue)</a>
   <a href="#">![Version](https://img.shields.io/badge/Version-1.0-orange)</a>
 </div>
