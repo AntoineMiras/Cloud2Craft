@@ -36,7 +36,7 @@ The goal of cloud2Craft is to allow anyone to import point clouds into the game,
 
 
 ## Install
-0. Download and unzip and execute Cloud2Craft.exe !
+1. Download, unzip and execute Cloud2Craft.exe ! Don't forget to launch your local server.
 
 OR 
 
