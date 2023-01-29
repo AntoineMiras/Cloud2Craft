@@ -22,7 +22,7 @@
     <a href="#settings">Settings</a> •
     <a href="https://github.com/AntoineMiras/Cloud2Craft/releases/tag/Release">Download</a> •
     <a href="#authors">Authors</a> •
-    <a href="https://choosealicense.com/licenses/mit">License</a> •
+    <a href="https://choosealicense.com/licenses/mit">License</a>
 </p>
 
 <picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Banner.jpg"></picture>
