@@ -18,6 +18,7 @@
 </div>
 <p align="center">
     <a href="#overview">Overview</a> •
+    <a href="#install">Install</a> •
     <a href="#settings">Settings</a> •
     <a href="https://github.com/AntoineMiras/Cloud2Craft/releases/tag/Release">Download</a> •
     <a href="#authors">Authors</a> •
