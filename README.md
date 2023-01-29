@@ -58,6 +58,7 @@ eula=True
 
 <p align="center">
 <picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Screenshots/server_directory_content.png" ></picture>
+
 You should have a file like this one
 </p>
 
