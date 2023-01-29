@@ -91,11 +91,6 @@ Cloud2Craft reads and generates the point cloud per chunk. These chunks are not 
 
 <br>
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Authors
 
 - [@AntoineMiras](https://github.com/AntoineMiras)
