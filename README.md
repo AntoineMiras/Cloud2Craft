@@ -19,9 +19,9 @@
 <p align="center">
     <a href="#overview">Overview</a> •
     <a href="#settings">Settings</a> •
-    <a href="#download">Download</a> •
+    <a href="https://github.com/AntoineMiras/Cloud2Craft/releases/tag/Release">Download</a> •
     <a href="#authors">Authors</a> •
-    <a href="#license">License</a> •
+    <a href="#license">License</a>
 </p>
 
 <picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Cloud2Craft/Ressources/Banner.jpg"></picture>
