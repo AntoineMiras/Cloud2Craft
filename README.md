@@ -56,10 +56,9 @@ eula=True
 ```
 5. Copy the path of the folder, we will use it in the next step.
 
-You should have a file like this one :
-
 <p align="center">
 <picture><img src="https://github.com/AntoineMiras/Cloud2Craft/blob/main/Screenshots/server_directory_content.png" ></picture>
+You should have a file like this one
 </p>
 
 6. launch server :
