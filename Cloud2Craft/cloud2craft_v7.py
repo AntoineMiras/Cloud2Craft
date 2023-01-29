@@ -405,7 +405,7 @@ class LoadPoints(QObject):
 
             except AttributeError as _e:
                 print(_e)
-                QMessageBox.critical(self, 'Error',
+                QMessageBox.critical(MAINWINDOW, 'Error',
                                      "Error when reading the point cloud, please check console for further informations.")
 
 
