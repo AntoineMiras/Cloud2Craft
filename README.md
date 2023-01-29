@@ -45,9 +45,9 @@ pip install -r requirements.txt
 
 Please download the files for the same version. The latest versions of Minecraft may have some compatibility issues — so in this tutorial we will work with minecraft 1.14.
 links : 
-- <a href="https://alicevision.org/](https://www.minecraft.net/en-us/download/server" target="_blank">Minecraft server</a>
+- <a href="https://www.minecraft.net/en-us/download/server" target="_blank">Minecraft server</a>
 - <a href="https://getbukkit.org/download/spigot" target="_blank">Spigot</a>
-- <a href="https://dev.bukkit.org/projects/raspberryjuice?__cf_chl_tk=NTLm9y9wEYzpg27Ztui331kjzS.Ht8_lO5YcWxEwiCE-1674986542-0-gaNycGzNCSU" target="_blank">Spigot</a>
+- <a href="https://dev.bukkit.org/projects/raspberryjuice?__cf_chl_tk=NTLm9y9wEYzpg27Ztui331kjzS.Ht8_lO5YcWxEwiCE-1674986542-0-gaNycGzNCSU" target="_blank">RaspberryJuice</a>
 
 3. Make a new folder (minecraft-server) and move the .jar files downloaded in step 4.
 4. In this folder, create a text file named eula.txt with the following line 
@@ -65,17 +65,14 @@ You should have a file like this one :
   </picture>
   <br>
 </h1>
-6 .launch server
+6 .launch server :
 ```
 cd path_of_your_files
-```
-```
 java -jar spigot-1.14.3.jar
 ```
 7. Move the RaspberryJuice .jar file into the plugins directory that spigot has created
 
 8. Restart spigot with the same command as before :
-
 ```
 java -jar spigot-1.14.3.jar
 ```
