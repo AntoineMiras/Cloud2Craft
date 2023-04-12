@@ -35,7 +35,7 @@ Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BEL
 The goal of cloud2Craft is to allow anyone to import point clouds into the game, without the need for programming knowledge. Cloud2Craft is for everyone, but especially for those interested in point clouds, surveyors and virtual tour creators! 
 
 You can access the documentation using this link:
-https://medium.com/@antoine.miras/16f0129e3ee1
+https://medium.com/@antoine.miras/cloud2craft-documentation-16f0129e3ee1
 
 ## Install
 1. Download, unzip and execute Cloud2Craft.exe ! Don't forget to launch your local server (steps 2-5).
