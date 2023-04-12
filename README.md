@@ -34,7 +34,8 @@
 Cloud2Craft is an open-source project, created by Antoine MIRAS and Baptiste BELLOCQ, that allow anyone to load massives point clouds into minecraft. The point clouds are commonly obtained using LiDAR technology or photogrammetry.
 The goal of cloud2Craft is to allow anyone to import point clouds into the game, without the need for programming knowledge. Cloud2Craft is for everyone, but especially for those interested in point clouds, surveyors and virtual tour creators! 
 
-
+You can access the documentation using this link:
+https://medium.com/@antoine.miras/16f0129e3ee1
 
 ## Install
 1. Download, unzip and execute Cloud2Craft.exe ! Don't forget to launch your local server (steps 2-5).
